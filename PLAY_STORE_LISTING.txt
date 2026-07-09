@@ -1,0 +1,20 @@
+Jester King GM Simulator
+
+Short description:
+A chaotic beer, pizza, goat, and brewery market simulator.
+
+Full description:
+Run the strangest little market at Jester King. Buy low, sell high, chase rumors, survive goat chaos, and make it through 30 days as the market changes around you.
+
+Trade beers, hops, yeast, pizza supplies, tours, hay bales, goat experiences, and more. Watch the Word on the Street ticker for rumors about future price spikes. Travel between the Beer Garden, Pole Barn, Pizzeria, Goat Pen, Barrel Room, Brewhouse, QR Pickup, and the wedding.
+
+A weird, funny, old-school trading game inspired by classic menu-based market simulators.
+
+Category:
+Game, Simulation
+
+Suggested content rating notes:
+No real gambling.
+No real-money purchases.
+No user-generated content.
+No online multiplayer.
